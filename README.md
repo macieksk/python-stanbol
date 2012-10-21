@@ -5,11 +5,11 @@ A connection module  in python to some of Apache Stanbol's components RESTful AP
 
 ---
 
-stanbol.py - the module itself, should work out of the box.
+* stanbol.py - the module itself, should work out of the box.
 
-* Example of use:
-
-stanbol_enhancers.py  - this is an example of a controller taken out from a site build on http://web2py.com.
+--- 
+An example of usage:
+* stanbol_enhancers.py  - this is an example of a controller taken out from a site build on http://web2py.com.
 This one will not work by itself, as it needs to be put inside a web2py site.
 However this may help you figure out how to use stanbol.py.
 
