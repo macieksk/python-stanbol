@@ -10,7 +10,7 @@ stanbol.py - the module itself, should work out of the box.
 * Example of use:
 
 stanbol_enhancers.py  - this is an example of a controller taken out from a site build on http://web2py.com.
-This will not work by itself, as it needs to be put inside a web2py site.
+This one will not work by itself, as it needs to be put inside a web2py site.
 However this may help you figure out how to use stanbol.py.
 
 In this example, the module itself is imported as:
