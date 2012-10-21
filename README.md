@@ -15,6 +15,7 @@ However this may help you figure out how to use stanbol.py.
 
 In this example, the module itself is imported as:
 >  import applications.welcome.modules.stanbol as stanbolmod
+
 >  from applications.welcome.modules.stanbol import default_stanbol_connection as stanbol
 
 And then Apache Stanbol RESTful API is called:
